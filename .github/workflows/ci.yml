@@ -12,4 +12,4 @@ jobs:
       run: make
       
     - name: Run the program (optional)
-      run: ./company-analyzer
+      run: ./company_analyzer
