@@ -3,6 +3,7 @@
 
 #define MAX_NAME_LEN 100
 #define MAX_URL_LEN 200
+#define MAX_COMPANIES 100
 
 typedef struct {
     char index[20];
