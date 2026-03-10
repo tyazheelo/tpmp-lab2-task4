@@ -10,7 +10,7 @@
 
 ## Usage
 ```bash
-./company_analyzer
+./bin/company_analyzer
 # или
 make run
 ```
@@ -22,3 +22,4 @@ make run
 Microsoft,www.microsoft.com,98052,USA,Washington,King,Redmond,Microsoft Way,1,,45,144000,15
 Google,www.google.com,94043,USA,California,Santa Clara,Mountain View,Amphitheatre Parkway,1600,,22,135000,20
 ```
+
