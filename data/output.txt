@@ -1,0 +1,9 @@
+Название,Сайт,Индекс,Страна,Область,Район,Город,Улица,Дом,Квартира,Лет на рынке,Сотрудников,Филиалов в Европе
+Microsoft,www.microsoft.com,98052,USA,Washington,King,Redmond,Microsoft Way,1,,45,144000,15
+Google,www.google.com,94043,USA,California,Santa Clara,View,Amphitheatre Parkway,1600,,22,135000,20
+Apple,www.apple.com,95014,USA,California,Santa Clara,Cupertino,Infinite Loop,1,,44,147000,18
+IBM,www.ibm.com,10504,USA,New York,Westchester,Armonk,Orchard Road,1,,110,282000,25
+Amazon,www.amazon.com,98109,USA,Washington,King,Seattle,Terry Avenue,410,,27,950000,12
+Tesla,www.tesla.com,78725,USA,Texas,Travis,Austin,Deck Lane,13101,,18,70750,8
+Yandex,www.yandex.ru,101000,Russia,Moscow,Moscow,Moscow,Lev Tolstoy Street,16,,24,12500,3
+Samsung,www.samsung.com,04536,South Korea,Seoul,Jung-gu,Seoul,Sejong-daero,110,,52,267000,25
